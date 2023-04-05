@@ -1,4 +1,4 @@
-# HillaryOkporka
+
 <h1>Hi, My name is Hillary Okporka</>
 <h3>A passionate Full stack developer from Nigeria,I work with various web technologies such as HTTP, REST APIs, WebSocket, and more. I have been able to build server-side logic, integrate with databases, and interact with other web services. I often use front-end frameworks such as React, Angular, or Vue to build full-stack applications. I have a strong understanding of JavaScript, asynchronous programming, and server-side architecture.</h3>
 
